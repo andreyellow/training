@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "tilda": {
+      "type": "http",
+      "url": "https://tilda.ru/api/mcp/",
+      "headers": {
+        "Authorization": "Bearer mcp_tilda_805e664a1abc88f4dfa82542068012eada50dc2f68245fc7"
+      }
+    }
+  }
+}
